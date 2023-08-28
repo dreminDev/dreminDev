@@ -1,8 +1,4 @@
+# 💫 About Me:
+🔭 I’m currently studying and working on Golang<br>💬 Shoot me:<br>      1.  VK: @maksim.dremin<br>      2. TG: @maksim.dremin1337<br>
 
-## 💫 About me:
-#### 🔭 I am currently working on JavaScript
-#### 💬 Shoot me:
-#### 1. VKONTAKTE: @maksim.dremin
-#### 2. TG: @maksim_dremin1337
-##
-## 💻 Tech Stack:
+
