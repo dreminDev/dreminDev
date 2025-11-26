@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on TypeScript<br>💬 Shoot me:<br>1.  VK: @maksim_dremin<br>      2. TG: @maksim_dremin<br>
+🔭 I am currently working on TypeScript<br>💬 Shoot me:<br>TG: @maksim_dremin<br>
 
 
 # 💻 Tech Stack:
