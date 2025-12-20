@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on TypeScript and Golang project<br>💬 Shoot me:<br>TG: @maksim_dremin<br>
+🔭 I am currently working on TypeScript and Golang project<br>💬 Contact with me:<br>TG: @maksim_dremin<br>
 
 
 # 💻 Tech Stack:
