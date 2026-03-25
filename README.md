@@ -1,62 +1,82 @@
-# 👋 Hey, I'm Maksim Dremin
+<div align="center">
 
-Backend engineer focused on building fast and reliable systems.
+# Maksim Dremin
 
----
+*Backend Engineer · TypeScript · Golang*
 
-## 🛠 Tech Stack
+[![Telegram](https://img.shields.io/badge/Telegram-@maksim__dremin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maksim_dremin)
+[![Profile Views](https://visitcount.itsvg.in/api?id=dreminDev&icon=2&color=1)](https://visitcount.itsvg.in)
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧑‍💻 About
+```yaml
+name:    Maksim Dremin
+role:    Backend Engineer
+stack:   TypeScript, Golang
+contact: @maksim_dremin (Telegram)
+status:  Open to interesting projects
+` `` ` (без пробелов)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dreminDev&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
+---
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dreminDev&theme=material-palenight&hide_border=false)
+## ⚡ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreminDev&theme=material-palenight&hide_border=false&layout=compact)
+| Layer | Technologies |
+|---|---|
+| Languages | TypeScript · Go |
+| Backend | Node.js · Fastify · Fiber · gin |
+| Databases | PostgreSQL · Redis · MongoDB |
+| DevOps | Docker · Linux · CI/CD |
+| Protocols | REST · gRPC · WebSockets |
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=dreminDev&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=dreminDev&theme=material-palenight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dreminDev&theme=material-palenight&hide_border=false&layout=compact)
+
+</div>
 
 ---
 
 ## 🏆 Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dreminDev&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=dreminDev&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 ---
 
 ## 📈 Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dreminDev&theme=material-palenight&hide_border=false)
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=dreminDev&theme=material-palenight&hide_border=false)
+
+</div>
 
 ---
 
-## 📬 Contact
+<div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@maksim__dremin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maksim_dremin)
+*open for collab — reach me on Telegram* **@maksim_dremin**
 
----
+</div>
+```
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=dreminDev&icon=2&color=1)](https://visitcount.itsvg.in)
+Ключевые улучшения:
+- `<div align="center">` — центрирует блоки (это валидный MD для GitHub)
+- Таблица для стека — смотрится чисто и структурированно
+- YAML-блок в About — технично и читаемо
+- Все виджеты сгруппированы и выровнены
